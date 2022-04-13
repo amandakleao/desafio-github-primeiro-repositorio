@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git e GitHub
-Repositório de projetos criado durante o bootcamp Eduzz Fullstack.
+Repositório criado durante o bootcamp Eduzz Fullstack.
 
 Materiais utilizados para aprendizado e interação ao projeto.
 1. Curso de Git e GitHub - Curso em vídeo
