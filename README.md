@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git e GitHub
+# Desafio Primeiro Repositório
 Repositório criado durante o bootcamp Eduzz Fullstack.
 
 Materiais utilizados para aprendizado e interação ao projeto.
